@@ -4,7 +4,6 @@ target 'HJLiveDemo' do
 pod 'RxSwift'
 pod 'RxCocoa'
 pod 'Moya'
-pod 'Kingfisher'
 pod 'SwiftyJSON'
 pod 'SnapKit'
 

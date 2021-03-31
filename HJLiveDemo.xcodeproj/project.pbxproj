@@ -3,12 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		00243B5026141FF700BE0B19 /* HJCommonMacro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00243B4F26141FF700BE0B19 /* HJCommonMacro.swift */; };
-		008D7B1E26130DED001A48CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008D7B1526130DED001A48CB /* ViewController.swift */; };
 		008D7B1F26130DED001A48CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008D7B1626130DED001A48CB /* Assets.xcassets */; };
 		008D7B2026130DED001A48CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008D7B1726130DED001A48CB /* LaunchScreen.storyboard */; };
 		008D7B2126130DED001A48CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008D7B1926130DED001A48CB /* Main.storyboard */; };
@@ -29,7 +28,6 @@
 /* Begin PBXFileReference section */
 		00243B4F26141FF700BE0B19 /* HJCommonMacro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HJCommonMacro.swift; sourceTree = "<group>"; };
 		008D7AF326130D08001A48CB /* HJLiveDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HJLiveDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		008D7B1526130DED001A48CB /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		008D7B1626130DED001A48CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		008D7B1826130DED001A48CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		008D7B1A26130DED001A48CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -181,7 +179,6 @@
 				008D7B1626130DED001A48CB /* Assets.xcassets */,
 				008D7B1726130DED001A48CB /* LaunchScreen.storyboard */,
 				008D7B1926130DED001A48CB /* Main.storyboard */,
-				008D7B1526130DED001A48CB /* ViewController.swift */,
 				008D7B1C26130DED001A48CB /* Info.plist */,
 				008D7B3426131D91001A48CB /* Main.json */,
 			);
@@ -230,7 +227,6 @@
 				7411F8E7854FA235F5BA45A0 /* Pods-HJLiveDemo.debug.xcconfig */,
 				BE74422659E542C6FD5B8F67 /* Pods-HJLiveDemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -358,7 +354,6 @@
 				008D7B2D26131248001A48CB /* HJCustomTabBar.swift in Sources */,
 				008D7B372613213D001A48CB /* HJLiveViewController.swift in Sources */,
 				008D7B2226130DED001A48CB /* AppDelegate.swift in Sources */,
-				008D7B1E26130DED001A48CB /* ViewController.swift in Sources */,
 				008D7B3926132172001A48CB /* HJMineViewController.swift in Sources */,
 				008D7B2426130DED001A48CB /* SceneDelegate.swift in Sources */,
 				00243B5026141FF700BE0B19 /* HJCommonMacro.swift in Sources */,

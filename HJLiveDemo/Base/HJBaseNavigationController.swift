@@ -11,7 +11,6 @@ import UIKit
 class HJBaseNavigationController: UINavigationController {
     
     override func viewDidLoad() {
-        
+       
     }
-    
 }

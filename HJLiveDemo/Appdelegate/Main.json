@@ -1,0 +1,38 @@
+[
+    {
+        "visitorInfo" : {
+            "imageName" : "",
+            "message" : ""
+        },
+        "imageName" : "icon_home",
+        "title" : "首页",
+        "clsName" : "HJLiveViewController"
+    },
+    {
+        "visitorInfo" : {
+            "imageName" : "visitordiscover_image_message",
+            "message" : "You can send message to miniLV"
+        },
+        "imageName" : "icon_mine",
+        "clsName" : "HJMineViewController",
+        "title" : "我的"
+    },
+    {
+        "visitorInfo" : {
+            "imageName" : "",
+            "message" : ""
+        },
+        "imageName" : "icon_home",
+        "title" : "首页",
+        "clsName" : "HJLiveViewController"
+    },
+    {
+        "visitorInfo" : {
+            "imageName" : "visitordiscover_image_message",
+            "message" : "You can send message to miniLV"
+        },
+        "imageName" : "icon_mine",
+        "clsName" : "HJMineViewController",
+        "title" : "我的"
+    }
+]
